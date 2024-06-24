@@ -5,7 +5,7 @@ const cors = require('cors');
 const authRoutes = require('./routes/auth');
 
 const app = express();
-const PORT = 5001;
+const PORT = 5000;
 
 // Replace with your actual MongoDB URI
 const mongoURI =
