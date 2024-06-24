@@ -40,7 +40,7 @@ const About = () => {
               </li>
             </ul>
             <div className="about__buttons">
-              <a href="#contact" className="button">
+              <a href="/contact" className="button">
                 <i className="ri-send-plane-line" /> Contact Me
               </a>
               <a
